@@ -1,6 +1,7 @@
-Resolución del primer trabajo práctico
-Abril 2023
+# Resolución del primer trabajo práctico
+## Abril 2023
 
-Compilador que uso: 	*el integrado a WSL
-			*el que usa por default Embarcadero Dev-C++
-			*el que instale para usarlo desde VS Code (MinGW)
+## Compilador que uso: 
+- Uso el que viene por default en WSL
+- Uso el que trae Dev-C++ o Code::Blocks
+- También uso MinGW que lo integré a VS Code
